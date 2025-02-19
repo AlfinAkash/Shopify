@@ -36,7 +36,8 @@ npm run dev
 ## 🗄️ Database Setup (MySQL)
 1. Create a MySQL database:
 ```sql
-CREATE DATABASE shopify_cashback;
+CREATE DATABASE shopify;
+
 ```
 2. Import the SQL schema (if available):
 ```bash
