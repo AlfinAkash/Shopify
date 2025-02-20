@@ -122,8 +122,7 @@ REACT_APP_RAZORPAY_KEY_ID=
 
 ---
 ##  Demo Video  
-[![Watch Demo](https://img.shields.io/badge/▶%20Watch%20Demo%20Video-red)](https://github.com/AlfinAkash/Shopify/blob/main/demo_video.mp4)  
 
-
-
+https://github.com/user-attachments/assets/7af5980a-6e66-4372-8fcb-b502529e0154
+---
  **Developed by [AlfinAkash](https://github.com/AlfinAkash)**
