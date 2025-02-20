@@ -79,10 +79,11 @@ INSERT INTO products (id, name, description, price, stock) VALUES
 CREATE TABLE orders (
     order_id INT AUTO_INCREMENT PRIMARY KEY,
     user_id INT NOT NULL,
-    product_id INT NOT NULL,
+    product_id VARCHAR(255,
+    payment_id VARCHAR(255),
     quantity INT DEFAULT 1,
     order_date TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
-    payment_status ENUM('Pending', 'Completed', 'Failed') DEFAULT 'Pending'
+    status ENUM('Pending', 'Completed', 'Failed') DEFAULT 'Pending'
 );
 ```
 
