@@ -33,7 +33,7 @@ npm run dev
 
 ---
 
-## 🗄 Database Setup (MySQL)
+##  Database Setup (MySQL)
 1. Create a MySQL database:
 ```sql
 CREATE DATABASE shopify;
