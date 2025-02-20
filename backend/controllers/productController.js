@@ -23,7 +23,7 @@ exports.selectProduct = async (req, res) => {
 
     try {
         const query = `
-            INSERT INTO orders (user_id, product_id, payment_status)
+            INSERT INTO orders (user_id, product_id, status)
             VALUES (?, ?, 'Pending')
         `;
         await db.execute(query, [user_id, product_id]);
