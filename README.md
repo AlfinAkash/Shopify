@@ -3,9 +3,9 @@
 This is a Shopify Cashback Application built with **React.js**, **Node.js**, and **MySQL**.
 
 
-## 🛠️ Setup Instructions
+##  Setup Instructions
 
-### 📥 Clone the Repository
+###  Clone the Repository
 ```bash
 git clone https://github.com/AlfinAkash/Shopify.git
 cd Shopify
@@ -13,7 +13,7 @@ cd Shopify
 
 ---
 
-## 🚀 Frontend Setup
+##  Frontend Setup
 ```bash
 cd frontend
 npm install
@@ -23,7 +23,7 @@ npm start
 
 ---
 
-## 🔧 Backend Setup
+##  Backend Setup
 ```bash
 cd backend
 npm install
@@ -33,7 +33,7 @@ npm run dev
 
 ---
 
-## 🗄️ Database Setup (MySQL)
+## 🗄 Database Setup (MySQL)
 1. Create a MySQL database:
 ```sql
 CREATE DATABASE shopify;
@@ -120,10 +120,10 @@ REACT_APP_RAZORPAY_KEY_ID=
 
 ```
 
-
-
 ---
+##  Demo Video  
+[![Watch Demo](https://img.shields.io/badge/▶%20Watch%20Demo%20Video-red)](https://github.com/AlfinAkash/Shopify/blob/main/demo_video.mp4)  
 
 
 
-🚀 **Developed by [AlfinAkash](https://github.com/AlfinAkash)**
+ **Developed by [AlfinAkash](https://github.com/AlfinAkash)**
